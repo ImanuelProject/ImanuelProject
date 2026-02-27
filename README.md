@@ -67,7 +67,7 @@ const imanuel = {
 
 | | Title | Journal | Accuracy |
 |-|-------|---------|----------|
-| 🥇 | **Optimalisasi Model Prediksi Kualitas Buah Jeruk** — Random Oversampling + Boosting | Udinus, 2024 | **91.42%** |
+| 🥇 | **Optimalisasi Model Prediksi Kualitas Buah Jeruk** — Random Oversampling + Boosting · [DOI ↗](https://doi.org/10.29408/edumatic.v8i1.25836)| Edumatic Vol.8, 2024 | **91.42%** |
 | ✍️ | **Analisis Sentimen iPhone** — Hybrid RoBERTa + XGBoost · [DOI ↗](https://doi.org/10.33364/algoritma/v.22-1.2277) | Jurnal Algoritma Vol.22, 2025 | **99.74%** |
 
 ---
